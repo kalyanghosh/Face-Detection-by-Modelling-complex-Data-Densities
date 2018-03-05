@@ -11,6 +11,6 @@ Mixture of Gaussians, T distribution and Factor Analyser
 The first step of this project was to download the face data. For my case I used the University Of Maryland Face dataset available at :
 ![UMD FACES](http://www.umdfaces.io/").
 <br></br>
-After downloading the data, I had to write a Python IO module that cropped the faces from the given annotation files and also cropped a   random part from the image as background.
+After downloading the data, I had to write a Python IO module that cropped the faces from the given annotation files and also cropped a   random part from the image as background.For the purpose of creating data for Training & Testing set, I divided the data into 4 folders namely the Train_FaceData,Train_NonFaceData,Test_FaceDate,Test_NonFaceData. The code for this module is attached as Data_Preprocessing_IO_Code.py
 
 
