@@ -24,7 +24,7 @@ In this , I wrote code to model the face data using a Single Gaussian Model.The 
 <br><b>ROC:</b></br>
 ![MEAN FACE](https://github.com/kalyanghosh/Face-Detection-by-Modelling-complex-Data-Densities/blob/master/ROC_Model_1_Gaussian.png)
 <br></br>
-<b>2. MIXTURE OF GAUSSIAN : </b>
+<b>3. MIXTURE OF GAUSSIAN : </b>
 <br></br>
 In this , I wrote code to model the face data using a Mixture of Gaussian for K=3.The code for this module is attached as <b>Model_2_Mixture_Of_Gaussians.py</b>. Here, I used the <b>Expectation-Maximization</b> algorithm to estimate the parameters of the model. The mean face model and the mean covariance face model learned from this model at shown below.
 <br></br>
