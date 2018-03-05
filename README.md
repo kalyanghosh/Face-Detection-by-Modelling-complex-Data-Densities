@@ -17,6 +17,6 @@ After downloading the data, I had to write a Python IO module that cropped the f
 <br></br>
 In this , I wrote code to model the face data using a Single Gaussian Model.The code for this module is attached as Data_Preprocessing_IO_Code.py. The mean face model and the mean covariance face model learned from this model at shown below.
 <br></br>
-![MEAN FACE](C:\Users\Kalyan\Desktop\NCSU\2nd Semester\ECE_763_Computer_Vision_&_Deep_Learning\Project1\kghosh_project1\kghosh_project1\Result_Images/Model_1_MeanFace.jpg?raw=true "Title")
+![MEAN FACE](https://github.com/kalyanghosh/Face-Detection-by-Modelling-complex-Data-Densities/blob/master/Model_1_MeanFace.png)
 
 
