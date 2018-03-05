@@ -15,7 +15,7 @@ After downloading the data, I had to write a Python IO module that cropped the f
 <br></br>
 <b>2. SINGLE GAUSSIAN MODEL : </b>
 <br></br>
-In this , I wrote code to model the face data using a Single Gaussian Model.The code for this module is attached as Data_Preprocessing_IO_Code.py. The mean face model and the mean covariance face model learned from this model at shown below.
+In this , I wrote code to model the face data using a Single Gaussian Model.The code for this module is attached as <b>Data_Preprocessing_IO_Code.py</b>. The mean face model and the mean covariance face model learned from this model at shown below.
 <br></br>
 <br><b>MEAN FACE:</b></br>
 ![MEAN FACE](https://github.com/kalyanghosh/Face-Detection-by-Modelling-complex-Data-Densities/blob/master/Model_1_MeanFace.png)
@@ -26,16 +26,15 @@ In this , I wrote code to model the face data using a Single Gaussian Model.The 
 <br></br>
 <b>2. MIXTURE OF GAUSSIAN : </b>
 <br></br>
-In this , I wrote code to model the face data using a Mixture of Gaussian for K=3.The code for this module is attached as Model_2_Mixture_Of_Gaussians.py. Here, I used the <b>Expectation-Maximization</b> algorithm to estimate the parameters of the model. The mean face model and the mean covariance face model learned from this model at shown below.
+In this , I wrote code to model the face data using a Mixture of Gaussian for K=3.The code for this module is attached as <b>Model_2_Mixture_Of_Gaussians.py</b>. Here, I used the <b>Expectation-Maximization</b> algorithm to estimate the parameters of the model. The mean face model and the mean covariance face model learned from this model at shown below.
 <br></br>
 <br><b>MEAN FACE:</b></br>
 ![MEAN FACE](https://github.com/kalyanghosh/Face-Detection-by-Modelling-complex-Data-Densities/blob/master/Model_2_MeanFace.png)
 <br><b>MEAN COVARIANCE FACE:</b></br>
 ![MEAN FACE](https://github.com/kalyanghosh/Face-Detection-by-Modelling-complex-Data-Densities/blob/master/Model_1_Covariance_Face.png)
-
 <b>3. T DISTRIBUTION : </b>
 <br></br>
-In this , I wrote code to model the face data using a T distribution.The code for this module is attached as Model_3_T.py. Here, I used the <b>Expectation-Maximization</b> algorithm to estimate the parameters of the model. The mean face model and the mean covariance face model learned from this model at shown below.
+In this , I wrote code to model the face data using a T distribution.The code for this module is attached as <b>Model_3_T.py</b>. Here, I used the <b>Expectation-Maximization</b> algorithm to estimate the parameters of the model. The mean face model and the mean covariance face model learned from this model at shown below.
 <br></br>
 <br><b>MEAN FACE:</b></br>
 ![MEAN FACE](https://github.com/kalyanghosh/Face-Detection-by-Modelling-complex-Data-Densities/blob/master/Model_2_MeanFace.png)
@@ -43,7 +42,7 @@ In this , I wrote code to model the face data using a T distribution.The code fo
 ![MEAN FACE](https://github.com/kalyanghosh/Face-Detection-by-Modelling-complex-Data-Densities/blob/master/Model_1_Covariance_Face.png)
 <b>4. FACTOR ANALYZER : </b>
 <br></br>
-In this , I wrote code to model the face data using a Factor Analyzer.The code for this module is attached as Model_5_Factor_Analyser.py. Here, I used the <b>Expectation-Maximization</b> algorithm to estimate the parameters of the model. The mean face model and the mean covariance face model learned from this model at shown below.
+In this , I wrote code to model the face data using a Factor Analyzer.The code for this module is attached as <b>Model_5_Factor_Analyser.py</b>. Here, I used the <b>Expectation-Maximization</b> algorithm to estimate the parameters of the model. The mean face model and the mean covariance face model learned from this model at shown below.
 <br></br>
 <br><b>MEAN FACE:</b></br>
 ![MEAN FACE](https://github.com/kalyanghosh/Face-Detection-by-Modelling-complex-Data-Densities/blob/master/Model_5_MeanFace.png)
