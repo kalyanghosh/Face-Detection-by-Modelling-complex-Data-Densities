@@ -19,7 +19,16 @@ In this , I wrote code to model the face data using a Single Gaussian Model.The 
 <br></br>
 <br><b>MEAN FACE:</b></br>
 ![MEAN FACE](https://github.com/kalyanghosh/Face-Detection-by-Modelling-complex-Data-Densities/blob/master/Model_1_MeanFace.png)
-<br>MEAN COVARIANCE FACE:</br>
+<br><b>MEAN COVARIANCE FACE:</b></br>
 ![MEAN FACE](https://github.com/kalyanghosh/Face-Detection-by-Modelling-complex-Data-Densities/blob/master/Model_1_Covariance_Face.png)
-<br>ROC:</br>
+<br><b>ROC:</b></br>
 ![MEAN FACE](https://github.com/kalyanghosh/Face-Detection-by-Modelling-complex-Data-Densities/blob/master/ROC_Model_1_Gaussian.png)
+<br></br>
+<b>2. MIXTURE OF GAUSSIAN : </b>
+<br></br>
+In this , I wrote code to model the face data using a Mixture of Gaussian for K=3.The code for this module is attached as Model_2_Mixture_Of_Gaussians.py. Here, I used the Expectation-Maximization algorithm to estimate the parameters of the model. The mean face model and the mean covariance face model learned from this model at shown below.
+<br></br>
+<br><b>MEAN FACE:</b></br>
+![MEAN FACE](https://github.com/kalyanghosh/Face-Detection-by-Modelling-complex-Data-Densities/blob/master/Model_2_MeanFace.png)
+<br><b>MEAN COVARIANCE FACE:</b></br>
+![MEAN FACE](https://github.com/kalyanghosh/Face-Detection-by-Modelling-complex-Data-Densities/blob/master/Model_1_Covariance_Face.png)
