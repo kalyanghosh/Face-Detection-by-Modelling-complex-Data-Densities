@@ -12,8 +12,9 @@ The first step of this project was to download the face data. For my case I used
 ![UMD FACES](http://www.umdfaces.io/").
 <br></br>
 After downloading the data, I had to write a Python IO module that cropped the faces from the given annotation files and also cropped a   random part from the image as background.For the purpose of creating data for Training & Testing set, I divided the data into 4 folders namely the <b>Train_FaceData</b>,<b>Train_NonFaceData</b>,<b>Test_FaceDate</b>,<b>Test_NonFaceData</b>. The code for this module is attached as Data_Preprocessing_IO_Code.py
-<br>/br<>
-<b>1. SINGLE GAUSSIAN MODEL : </b>
-
+<br></br>
+<b>2. SINGLE GAUSSIAN MODEL : </b>
+<br></br>
+In this , I wrote code to model the face data using a Single Gaussian Model
 
 
