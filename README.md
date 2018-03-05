@@ -56,6 +56,10 @@ In this , I wrote code to model the face data using a Factor Analyzer.The code f
 ![MEAN FACE](https://github.com/kalyanghosh/Face-Detection-by-Modelling-complex-Data-Densities/blob/master/Model_5_ROC.png)
 <br></br>
 <b>5. USEFUL LINKS : </b>
-![SIMON PRINCE BOOK](http://www.computervisionmodels.com/").
+<br></br>
+![SIMON PRINCE BOOK:](http://www.computervisionmodels.com/").
+<br></br>
+![EXPECTATION MAXIMIZATION ALGORITHM:](https://ibug.doc.ic.ac.uk/media/uploads/documents/expectation_maximization-1.pdf").
+
 
 
